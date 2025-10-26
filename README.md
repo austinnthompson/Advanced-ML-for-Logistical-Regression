@@ -1,4 +1,4 @@
-# Advanced-ML-for-Logistical-Regression
+# Advanced-ML-for-Logistic-Regression
 
 ## Executive Summary: Thompson Cell Plan Project
 
